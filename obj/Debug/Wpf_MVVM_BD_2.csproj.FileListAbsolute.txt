@@ -1,0 +1,15 @@
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\bin\Debug\Wpf_MVVM_BD_2.exe.config
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\bin\Debug\Wpf_MVVM_BD_2.exe
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\bin\Debug\Wpf_MVVM_BD_2.pdb
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\obj\Debug\Wpf_MVVM_BD_2.csproj.AssemblyReference.cache
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\obj\Debug\View\MainWindowView.g.cs
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\obj\Debug\App.g.cs
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\obj\Debug\Wpf_MVVM_BD_2_MarkupCompile.cache
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\obj\Debug\Wpf_MVVM_BD_2_MarkupCompile.lref
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\obj\Debug\View\MainWindowView.baml
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\obj\Debug\Wpf_MVVM_BD_2.g.resources
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\obj\Debug\Wpf_MVVM_BD_2.Properties.Resources.resources
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\obj\Debug\Wpf_MVVM_BD_2.csproj.GenerateResource.cache
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\obj\Debug\Wpf_MVVM_BD_2.csproj.CoreCompileInputs.cache
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\obj\Debug\Wpf_MVVM_BD_2.exe
+D:\VC_D\repos_1\Wpf_MVVM_BD_2\obj\Debug\Wpf_MVVM_BD_2.pdb
